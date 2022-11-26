@@ -1,4 +1,4 @@
-import { NFTCard } from "./components/nftCard"
+import { NFTCard } from "../components/nftCard"
 import { useState } from 'react'
 
 const Home = () => {
